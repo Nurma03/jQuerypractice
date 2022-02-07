@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-image: radial-gradient(circle, #80d4ff, #1a75ff);
+}
+
+h1 {
+  padding-top: 300px;
+  color: #004d00;
+}
+
+div {
+  padding-top: 225px;
+}
+button {
+  width: 160px;
+  height: 25px;
+}
+
+input {
+  width: 150px;
+  height: 35px;
+}
+
+p {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
